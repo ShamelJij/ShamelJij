@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShamelJij. I hope you're doing good.
 - 👀 I’m interested in all the interesting things out there.
 - 🌱 I’m currently learning how to be a better person or in some other words: a better programmer.
-- 💞️ I’m looking to collaborate on building a better world to make a better place.
+- 💞️ I’m looking to collaborate on building a better world to make IT a better place. Got it? IT? 
 - 📫 How to reach me... through your soul... through your heart... through your thoughts...
 
 <!---
